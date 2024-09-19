@@ -1,3 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
-
+* {
+	background:url("backsew.psd");
+	font-family:allura,lucida handwriting,cursive;
+	font-size: 50px;
+	font-display: block;
+	font-variant: normal;
+	font-weight: 600;
+	color:rgba(254,155,244,1.00);
+	
+}
