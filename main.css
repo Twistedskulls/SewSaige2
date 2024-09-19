@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 * {
-	background:url("backsew.psd");
+	background:url("backsew.psd") no-repeat fixed center;
 	font-family:allura,lucida handwriting,cursive;
 	font-size: 50px;
 	font-display: block;
