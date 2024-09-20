@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 * {
-	background:url("backsew.jpg");
+	background:url("backsew.jpg") no-repeat center fixed;
 	font-family: "allura", "Lucida Grande", "Lucida Sans Unicode", "cursive";
 	font-size: 50px;
 	font-display: block;
@@ -21,5 +21,6 @@
 	border-radius: 25, 25, 25, 25;
 }
 #container {
-	center-align
+	align-content: center;
+	
 }
