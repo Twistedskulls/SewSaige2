@@ -1,11 +1,25 @@
 @charset "utf-8";
 /* CSS Document */
 * {
-	background:url("backsew.psd") no-repeat fixed;
-	font-family:allura,lucida handwriting,cursive;
+	background:url("backsew.jpg");
+	font-family: "allura", "Lucida Grande", "Lucida Sans Unicode", "cursive";
 	font-size: 50px;
 	font-display: block;
 	font-variant: normal;
 	font-weight: 600;
 	color:rgba(254,155,244,1.00);
+}
+.left{
+	align-content: left;
+	border:rgba(0,0,0,1.00) medium groove 250px;
+	border-radius: 25, 25, 25, 25;
+}
+
+.right{
+	align-content: right;
+	border: rgba(0,0,0,1.00) medium groove 250px;
+	border-radius: 25, 25, 25, 25;
+}
+#container {
+	center-align
 }
