@@ -15,15 +15,16 @@
 	border-radius: 25, 25, 25, 25;
 	margin: 0 auto;
 	width:"350px";
-	
+	display: block;
 }
-
 .right{
 	float: right;
+	text-align: center;
 	border: rgba(0,0,0,1.00) medium groove 250px;
 	border-radius: 25, 25, 25, 25;
 	margin: 0 auto;
-	width:"350px";	
+	width:"350px";
+	display: block;
 }
 #container {
 	margin: 0 auto;
