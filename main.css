@@ -3,24 +3,29 @@
 * {
 	background:url("backsew.jpg") no-repeat center fixed;
 	font-family: "allura", "Lucida Grande", "Lucida Sans Unicode", "cursive";
-	font-size: 50px;
+	font-size: 50em;
 	font-display: block;
 	font-variant: normal;
 	font-weight: 600;
 	color:rgba(254,155,244,1.00);
 }
 .left{
-	align-content: left;
+	float: left;
 	border:rgba(0,0,0,1.00) medium groove 250px;
 	border-radius: 25, 25, 25, 25;
+	margin: 0 auto;
+	width:"350px";
+	
 }
 
 .right{
-	align-content: right;
+	float: right;
 	border: rgba(0,0,0,1.00) medium groove 250px;
 	border-radius: 25, 25, 25, 25;
+	margin: 0 auto;
+	width:"350px";
 }
 #container {
-	align-content: center;
-	
-}
+	margin: 0 auto;
+	width:"800px";
+	}
