@@ -8,6 +8,7 @@
 	font-variant: normal;
 	font-weight: 600;
 	color:rgba(254,155,244,1.00);
+	display: block;
 }
 .left{
 	float: left;
@@ -23,7 +24,7 @@
 	border: rgba(0,0,0,1.00) medium groove 250px;
 	border-radius: 25, 25, 25, 25;
 	margin: 0 auto;
-	width:"350px";
+	width:"350px";	
 }
 #container {
 	margin: 0 auto;
