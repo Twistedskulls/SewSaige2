@@ -3,12 +3,11 @@
 * {
 	background:url("backsew.jpg") no-repeat center fixed;
 	font-family: "allura", "Lucida Grande", "Lucida Sans Unicode", "cursive";
-	font-size: 50em;
+	font-size: 1.2em;
 	font-display: block;
 	font-variant: normal;
 	font-weight: 600;
 	color:rgba(254,155,244,1.00);
-	display: block;
 }
 .left{
 	float: left;
