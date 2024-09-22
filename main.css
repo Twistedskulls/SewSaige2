@@ -32,3 +32,15 @@
 	margin: 0 auto;
 	max-width: "800px";
 	}
+a:link{
+	color:darkblue;
+}
+a:visted{
+	color:aqua;
+}
+a:hover{
+	color: aliceblue;
+}
+a:active{
+	color: darkgreen;
+}
